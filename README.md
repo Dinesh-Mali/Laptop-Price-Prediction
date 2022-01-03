@@ -19,3 +19,6 @@ Predict the Price of the Laptop based on common features like Memory, processor 
 6) Serving the model into Pickle and integrate it UI.
 
 7) Deploy the application on Heroku Cloud Platform.
+
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
